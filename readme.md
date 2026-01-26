@@ -79,15 +79,15 @@ Under the folder “trained_model”, we have uploaded our trained models for th
 If you find our method useful, please consider citing our paper:
 
   ```
-  @article{imFTP2024,
-    author       = {Yaxin Hou and
-                    Weiping Ding and
-                    Chongsheng Zhang},
-    title        = {imFTP: Deep imbalance learning via fuzzy transition and prototypical
-                    learning},
-    journal      = {Information Sciences},
-    volume       = {679},
-    pages        = {121071},
-    year         = {2024}
-  }
+  @article{imFTP,
+  author       = {Yaxin Hou and
+                  Weiping Ding and
+                  Chongsheng Zhang},
+  title        = {imFTP: Deep imbalance learning via fuzzy transition and prototypical
+                  learning},
+  journal      = {Information Sciences},
+  volume       = {679},
+  pages        = {121071},
+  year         = {2024}
+}
   ```
