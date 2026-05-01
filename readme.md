@@ -65,7 +65,7 @@ All codes are written by Python 3.8 with:
  
   To test the classifier with the trained model:
 
-  ```
+   ```
    python imFTP_TEST.py --dataset mfcc
    ```
 
